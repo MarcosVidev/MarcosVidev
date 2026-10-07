@@ -1,7 +1,10 @@
 <h1 align="center">Olá 👋, eu sou Marcos Vinicius</h1>
 <h3 align="center">Estudante de Ciências da Computação pela Universidade Jorge Amado, focado em tecnologias voltadas ao fullstacker desenvolvendo essa jornada através de projetos diretamente selecionados!</h3>
 
-- 🌱 Estou constantemente aprendendo **Praticando meus conhecimentos em projetos reais e criativos com foco no fullstacker e curiosidade para cada vez mais atividades!**
+- 🌱 Estou aprendendo recentemente **Tecnologias Java, lógica de programação com foco em backend, Spring boot, API's REST, conectividade JDBC utilizando o MySQL
+como princiapal ferramenta!**
+
+-👨‍💻 Pretendo aprofundar meus conhecimentos **Em ferramentas frontend, outra linguagens domínio total em outras linguagens e mecanismos dominantes no mercado!**
 
 - 📫 Como me contatar **munizvinicius439@gmail.com**
 
