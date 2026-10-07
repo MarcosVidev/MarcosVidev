@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo recentemente **tecnologias Java, lógica de programação com foco em backend, Spring boot, API's REST, conectividade JDBC utilizando o MySQL
 como princiapal ferramenta!**
 
-- 👨‍💻 Pretendo aprofundar meus conhecimentos **em ferramentas frontend, outra linguagens domínio total em outras linguagens e mecanismos dominantes no mercado!**
+- 👨‍💻 Pretendo aprofundar meus conhecimentos **em ferramentas frontend, domínio total em outras linguagens e mecanismos dominantes no mercado!**
 
 - 📫 Como me contatar **munizvinicius439@gmail.com**
 
